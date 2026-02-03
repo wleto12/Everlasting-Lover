@@ -1,0 +1,58 @@
+ body {
+ 	background-image: url(49-Winchester1.png);
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	background-attachment: fixed;
+ 	background-color: #4D2E20;
+
+ }
+
+.container1 {
+
+background-color: indianred;
+
+
+}
+
+
+.container {
+	margin-left: 25px;
+	font-family: Verdana;
+
+
+
+}
+
+.section-one {
+	color: tan;
+	font-size: 75px;
+	line-height: 10px;
+	display: flex;
+	justify-content: left;
+	text-align: left;
+	hieght: 200px;
+	
+
+}
+
+
+.section-two {
+	font-size: 30px;
+	line-height: 75px;
+	display: flex;
+	justify-content: left;
+	text-align: left;
+	hieght: 200px;
+	margin-bottom: 50px;
+	
+
+}
+
+.section-three {
+	color: tan;
+	margin-bottom: 80px;
+	font-size: 15px;
+
+
+
+}
